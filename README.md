@@ -24,7 +24,7 @@ How to use it?
 ---------------------
 This code requires a Python Package:torch 1.8.1+cu111, numpy 1.22.4+mkl, scikit-learn 0.23.2, scipy 1.5.2, matplotlib 3.3.2
 Here an example experiment is given by using Farmland Dateset. Directly run train.py functions with different network parameter settings to produce the results.
-`python train.py --dataset='farmland' --ae_number=2000 --cd_number=100
+`python train.py --dataset='farmland' --ae_number=2000 --cd_number=100`
 
 
 
