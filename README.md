@@ -26,5 +26,8 @@ This code requires a Python Package:torch 1.8.1+cu111, numpy 1.22.4+mkl, scikit-
 Here an example experiment is given by using Farmland Dateset. Directly run train.py functions with different network parameter settings to produce the results.
 `python train.py --dataset='farmland' --ae_number=2000 --cd_number=100`
 
+Licensing
+---------
+
 
 
